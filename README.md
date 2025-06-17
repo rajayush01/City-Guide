@@ -1,6 +1,6 @@
 # City-Guide
 
-Deployed Link: 
+**Deployed Link:** [https://city-guidee.netlify.app/](https://city-guidee.netlify.app/)
 
 ### Core Features
 **Category Filters –** Heritage, Food, Nature, Entertainment
