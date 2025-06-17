@@ -39,6 +39,7 @@ ScrollToTop, EmptyState, LoadingSkeleton, MainApp
 
 ### Clone the repository
 git clone https://github.com/yourusername/city-guide.git
+
 cd city-guide
 
 ### Install dependencies
